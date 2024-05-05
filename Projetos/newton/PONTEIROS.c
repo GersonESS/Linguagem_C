@@ -12,7 +12,7 @@ int main(){
     printf("\nEndereco de ptr:           = %p ",&ptr );
 
     *ptr = 73;
-    printf("\n------------------------------------" );
+    printf("\n-------------------------------------" );
     printf("\nConteudo de Var:           = %d ",var );
     printf("\nEndereco de Var:           = %p ",&var );
     printf("\nConteudo Apontado por ptr  = %d ",*ptr );
