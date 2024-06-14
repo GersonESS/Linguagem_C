@@ -1,7 +1,7 @@
 # Linguagem_C
  Linguagem C - Começando do absoluto zero - gratuito (2022)
 
- - **Ponteiros**
+ - **Linguagem C**
   - [#- Começando do absoluto zero ](https://github.com/GersonESS/EstruturadeDados/blob/main/variaveis-e-memoria/codes/variaveis-e-memoria.c)
 
  https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2
