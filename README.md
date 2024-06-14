@@ -17,4 +17,6 @@
 
  #### 1.2 - Aprenda a DEBUGAR em Linguagem C - Debug via Dev C++ [YOUTUBE ](https://www.youtube.com/watch?v=jV2OWKb2sUk&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=3)
 
+  #### 1.2 - Aprenda a DEBUGAR em Linguagem C - Debug via Dev C++ [YOUTUBE ](https://www.youtube.com/watch?v=jV2OWKb2sUk&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=3)
+
 #### 2.1 - Aprenda a mostrar mensagens em Linguagem C [YOUTUBE ](https://www.youtube.com/watch?v=eK9lfMmkDe0&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=4)
