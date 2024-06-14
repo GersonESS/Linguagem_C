@@ -3,6 +3,7 @@
 
   **Linguagem C**
   - Começando do absoluto zero 
+  - 1.1 - Aprenda a usar o DEV C++
 
  https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2
 
