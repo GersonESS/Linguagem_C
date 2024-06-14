@@ -17,7 +17,7 @@
 <td><a href="https://github.com/GersonESS" target="_blank"><img src="https://github.com/GersonESS/GersonES/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
- **Linguagem C
+ **Linguagem C**
 
  #### Começando do absoluto zero [YOUTUBE ](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=1)
  
