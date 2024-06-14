@@ -3,7 +3,6 @@
 
 int main()
 {
-
   printf("Mensagem 1\n ");
   system("PAUSE");	
   return 0;
