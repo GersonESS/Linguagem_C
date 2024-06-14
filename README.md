@@ -11,4 +11,4 @@
 
  #### Começando do absoluto zero [YOUTUBE ](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=1)
  
- #### Aprenda a usar o DEV C++ [YOUTUBE ](https://www.youtube.com/watch?v=QgE1zh0xCns&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=2)
+ #### 1.1 - Aprenda a usar o DEV C++ [YOUTUBE ](https://www.youtube.com/watch?v=QgE1zh0xCns&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=2)
