@@ -5,7 +5,7 @@
   - Começando do absoluto zero 
   - 1.1 - Aprenda a usar o DEV C++
   - 1.2 - Aprenda a DEBUGAR em Linguagem C - Debug via Dev C++
-
+ - [#2.1 - Aprenda a mostrar mensagens em Linguagem C - printf](https://github.com/GersonESS/EstruturadeDados/blob/main/variaveis-e-memoria/codes/variaveis-e-memoria.c)
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/2w8GYzBjNj8?si=pVhGAKkXGHLpOcCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
